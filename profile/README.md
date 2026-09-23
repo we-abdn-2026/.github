@@ -10,7 +10,7 @@
 ### The unofficial Department of “What If?”
 
 Computer Science students at the **University of Aberdeen**.<br>
-Curious about everything. Here for the joy of making things.
+Curious about almost everything. Here to make things and see what happens.
 
 [📂 See what we're up to](https://github.com/orgs/we-abdn-2026/repositories)
 
@@ -20,30 +20,30 @@ Curious about everything. Here for the joy of making things.
 
 ## 🚀 Side quests welcome
 
-- 🎮 Make something a friend can try. Watch them immediately use it wrong. Take notes.
-- 🛠️ Build the little tool you wish existed. Leave it somewhere the next person can find it.
-- 🔬 Turn “I wonder how that works” into something you can poke, run, or take apart.
-- 🌱 Try something outside the syllabus, even if the first step is learning where to start.
+- 🎮 Make something a friend can try. Watch them find a bug you never imagined.
+- 🛠️ Build the little tool you wish existed. Leave a note for whoever finds it next.
+- 🔬 Wonder how something works? Run it, poke it, take it apart.
+- 🌱 Try something outside the syllabus. “Where do I start?” is a perfectly good first question.
 
-A tiny game, a useful script, an experiment with no obvious purpose. **“Because it'd be fun to make” counts.**
+A tiny game, a useful script, or an experiment with no obvious purpose. **“Because it would be fun to make” is enough.**
 
 ## 🐛 A perfectly reasonable development process
 
 ```text
 💡 “What if we...”
  └─ 🧑‍💻 “This should be easy.”
-     └─ 🐛 “That's interesting.”
-         └─ 🔍 “Oh. That was us.”
+     └─ 🐛 “Wait, what?”
+         └─ 🔍 “Oh. I wrote that.”
              └─ 🎉 “IT WORKS! Come look!”
 ```
 
-That last part is why we're here. It's better when someone else gets to see it.
+The best part is having someone else there when it finally works.
 
 ## 🤝 Better in multiplayer
 
 Bring a rough idea, a sketch, or a question you haven't figured out yet. Find a repo that catches your eye and open an issue. You don't need a finished solution to join in.
 
-We'll aim to **roast the bug, not the person**, and remember that **not every project needs a business model**.
+**Roast the bug, not the person.** And remember: **not every project needs a business model.**
 
 ---
 
