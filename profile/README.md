@@ -1,3 +1,8 @@
+<p align="right">
+  <strong>English</strong> |
+  <a href="https://github.com/we-abdn-2026/.github/blob/main/profile/README.zh-CN.md">中文</a>
+</p>
+
 <div align="center">
 
 # 🧪 we-abdn-2026
