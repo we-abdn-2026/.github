@@ -4,27 +4,25 @@
 
 ### The unofficial Department of “What If?”
 
-🎓 Computer Science students at the **University of Aberdeen**<br>
-🔭 Curious about everything. Here for the joy of making things.
+Computer Science students at the **University of Aberdeen**.<br>
+Curious about everything. Here for the joy of making things.
 
-**💡 Weird ideas welcome · 🛠️ Prototypes encouraged · 🐛 Bugs inevitable**
-
-[📂 Explore our repos](https://github.com/orgs/we-abdn-2026/repositories)
+[📂 See what we're up to](https://github.com/orgs/we-abdn-2026/repositories)
 
 </div>
 
 ---
 
-## 🚀 Side quests we'd happily accept
+## 🚀 Side quests welcome
 
-- 🛠️ Build a tool to save five minutes. Spend a weekend on it. Worth it.
-- 🎮 Make something playable, clickable, or delightfully unnecessary.
-- 🔬 Pull an idea apart. Put it back together. Have a few pieces left over.
-- 🌱 Try something outside the syllabus. Beginners get a seat too.
+- 🎮 Make something a friend can try. Watch them immediately use it wrong. Take notes.
+- 🛠️ Build the little tool you wish existed. Leave it somewhere the next person can find it.
+- 🔬 Turn “I wonder how that works” into something you can poke, run, or take apart.
+- 🌱 Try something outside the syllabus, even if the first step is learning where to start.
 
-Got a better idea? **That's how the next repo starts.**
+A tiny game, a useful script, an experiment with no obvious purpose. **“Because it'd be fun to make” counts.**
 
-## 🐛 Debugging department
+## 🐛 A perfectly reasonable development process
 
 ```text
 💡 “What if we...”
@@ -34,27 +32,18 @@ Got a better idea? **That's how the next repo starts.**
              └─ 🎉 “IT WORKS! Come look!”
 ```
 
-“It works on my machine” is an invitation to investigate, not a deployment strategy.
+That last part is why we're here. It's better when someone else gets to see it.
 
-## 🤝 Multiplayer mode
+## 🤝 Better in multiplayer
 
-💬 **Ask the obvious question.** Half the room was wondering too.<br>
-🧩 **Start small.** The grand vision can wait until the button works.<br>
-🫶 **Be kind in reviews.** Roast the bug, not the person.<br>
-📝 **Leave a note.** Future you is a new contributor.<br>
-🎈 **Have fun.** Not every project needs a business model.
+Bring a rough idea, a sketch, or a question you haven't figured out yet. Find a repo that catches your eye and open an issue. You don't need a finished solution to join in.
 
-## 👋 Bring your curiosity
-
-An idea, a sketch, a bug report, your first PR: all good places to start.<br>
-Find a repo that interests you and open an issue. **You don't need to know everything to make something.**
+We'll aim to **roast the bug, not the person**, and remember that **not every project needs a business model**.
 
 ---
 
 <div align="center">
 
-**🔭 Scope: expanding · 🐛 Bug population: thriving · 🎉 Small wins: celebrated**
-
-*One more experiment before we call it a day?*
+*💡 Got a “what if”? Let's see what it does.*
 
 </div>
